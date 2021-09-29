@@ -10,6 +10,15 @@
 - ⚡ Fun fact: I'm a roller disco queen.
 
 
+Add me on Linkedin!
+
+https://www.linkedin.com/in/SaraDArce
 
 
 
+
+
+
+
+
+<img width="1199" alt="Screenshot 2021-09-29 at 1 08 52 PM" src="https://user-images.githubusercontent.com/1423883/135316463-1498ff11-8c88-4f8c-bc6a-9b6811dda417.png">
