@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**SaraDArce/SaraDArce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there, friend 👋
 
 - 🔭 I’m currently working on APIs and completing my fellowship at Pursuit.org.
 - 🌱 I’m currently learning Javascript, CSS, HTML, React, APIs and more, more, more....
@@ -13,7 +8,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Here, IG or Twitter: SaraDArce
 - 😄 Pronouns: She, her
 - ⚡ Fun fact: I'm a roller disco queen.
--->
+
 
 
 
