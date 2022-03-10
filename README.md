@@ -1,6 +1,6 @@
 ### Hi there, friend 👋
 
-- 🔭 Currently, I'm working on APIs and completing my fellowship at Pursuit.org.
+- 🔭 Currently, I'm working on a few projects and completing my fellowship at Pursuit.org.
 - 🌱 I'm learning Javascript, CSS, HTML, React and more, more, more....
 - 👯 Here for collaboration on anything to save animals, the environment or the music and concert industries.
 - 🤔 Seeking help with https://www.ConcertMagnet.com
