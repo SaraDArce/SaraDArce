@@ -1,13 +1,13 @@
 ### Hi there, friend 👋
 
-- 🔭 Currently, I'm working on a few projects and completing my fellowship at Pursuit.org.
-- 🌱 I'm learning Javascript, CSS, HTML, React and more, more, more....
-- 👯 Here for collaboration on anything to save animals, the environment or the music and concert industries.
+- 🔭 I'm about to complete my fellowship at Pursuit.org in June 2022
+- 🌱 I'm a student of Javascript, CSS, HTML, the PERN stack, SCRUM, and more...
+- 👯 Here for collaboration on anything around saving animals, the environment, and empowering the masses to streamline doing the same - especially through      the concert and music industries.
 - 🤔 Always keeping my eyes open for an aligned team who loves great music and wants to make a substantial impact to save animals and the environment:          
   
   https://www.ConcertMagnet.com
   
-- 💬 Ask me about growing up Manhattan
+- 💬 Ask me about - I'll leave that up to you
 - 📫 How to reach me: Here, IG or Twitter: SaraDArce
 - 😄 Pronouns: She, her
 - ⚡ Fun fact: Too many to mention!
