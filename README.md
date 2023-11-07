@@ -1,6 +1,6 @@
 ### Hi there, friend 👋
 
-- 🔭 I'm about to complete my fellowship at Pursuit.org in June 2022
+- 🔭 Pursuit and Per Scholas Alum ;)
 - 🌱 I'm a student of Javascript, CSS, HTML, the PERN stack, SCRUM, and more...
 - 👯 Here for collaboration on anything around saving animals, the environment, and empowering the masses to streamline doing the same - especially through      the concert and music industries.
 - 🤔 Always keeping my eyes open for an aligned team who loves great music and wants to make a substantial impact to save animals and the environment:          
