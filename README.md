@@ -1,24 +1,18 @@
 ### Hi there, friend 👋
 
 - 🔭 Pursuit and Per Scholas Alum ;)
-- 🌱 I'm a student of Javascript, CSS, HTML, the PERN stack, SCRUM, and more...
-- 👯 Here for collaboration on anything around saving animals, the environment, and empowering the masses to streamline doing the same - especially through      the concert and music industries.
-- 🤔 Always keeping my eyes open for an aligned team who loves great music and wants to make a substantial impact to save animals and the environment:          
+- 🌱 I'm a PERN and MERN FSW and aspiring SCRUM Master
+- 👯 I'm HERE for collaboration on anything around saving animals, and the environment, or empowering users to do the same - especially through concert and music industry frameworks.
+- 🤔 My eyes are always open for aligned devs who love great music and care to make a substantial impact:        
   
   https://www.ConcertMagnet.com
   
-- 💬 Ask me about - I'll leave that up to you
-- 📫 How to reach me: Here, IG or Twitter: SaraDArce
+- 💬 Ask me about anything music industry
+- 📫 How to reach me: Here, IG, X or Mastodon: SaraDArce
 - 😄 Pronouns: She, her
-- ⚡ Fun fact: Too many to mention!
-
-
-Add me on Linkedin!
+- ⚡ Fun facts: Too many to mention
 
 https://www.linkedin.com/in/SaraDArce
-
-
-
 
 
 
